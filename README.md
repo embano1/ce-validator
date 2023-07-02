@@ -1,6 +1,6 @@
 # About
 
-Validates a given *structured and JSON-encoded CloudEvent* against the latest CE SPEC (based on the current CE go-sdk).
+Validates a given *structured and JSON-encoded CloudEvent* against the latest [CloudEvent SPEC](https://cloudevents.io/) (based on the Go SDK `v2.14.0`).
 
 # Installation
 
