@@ -3,7 +3,7 @@ module github.com/embano1/ce-validator
 go 1.20
 
 require (
-	github.com/cloudevents/sdk-go/v2 v2.14.0
+	github.com/cloudevents/sdk-go/v2 v2.15.2
 	gotest.tools/v3 v3.5.0
 )
 
